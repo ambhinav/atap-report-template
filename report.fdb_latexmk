@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex report"] 1585663703 "report.aux" "report.bbl" "report" 1585664318
+["bibtex report"] 1585663703 "report.aux" "report.bbl" "report" 1585746327
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/ieeetr.bst" 1480098433 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "assets/references.bib" 1585659067 627 4fdfc5427a0ec4532124481aeff7c5d5 ""
-  "report.aux" 1585664318 2811 98657c11d7591e2baf4da9e268d966a0 ""
+  "report.aux" 1585746327 2811 98657c11d7591e2baf4da9e268d966a0 ""
   "report.bcf" 0 -1 0 ""
   (generated)
-  "report.bbl"
   "report.blg"
-["pdflatex"] 1585664316 "/home/abhinav/Desktop/Latex/atap-report-template/report.tex" "/home/abhinav/Desktop/Latex/atap-report-template/report.pdf" "report" 1585664318
+  "report.bbl"
+["pdflatex"] 1585746325 "/home/abhinav/Desktop/Latex/atap-report-template/report.tex" "/home/abhinav/Desktop/Latex/atap-report-template/report.pdf" "report" 1585746327
   "/etc/texmf/web2c/texmf.cnf" 1572516993 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/abhinav/Desktop/Latex/atap-report-template/report.aux" 1585664318 2811 98657c11d7591e2baf4da9e268d966a0 ""
+  "/home/abhinav/Desktop/Latex/atap-report-template/report.aux" 1585746327 2811 98657c11d7591e2baf4da9e268d966a0 ""
   "/home/abhinav/Desktop/Latex/atap-report-template/report.tex" 1585658574 492 368f0757f0723bff05f7a62357f0c107 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -71,20 +71,20 @@
   "assets/images/lemon-inventory.png" 1585657195 65334 868c2b67b654da1795597b882413d2e5 ""
   "assets/images/lemon-shipment.png" 1585657152 147807 50d5eb6322fbd97ad2942a737bf202a6 ""
   "assets/images/udemy-project.png" 1585657058 584480 9f0786f176e56b9d83d9417ff4323135 ""
-  "report.aux" 1585664318 2811 98657c11d7591e2baf4da9e268d966a0 ""
+  "report.aux" 1585746327 2811 98657c11d7591e2baf4da9e268d966a0 ""
   "report.bbl" 1585663703 510 827823a99e806c429bec9f18310a8849 "bibtex report"
   "report.tex" 1585658574 492 368f0757f0723bff05f7a62357f0c107 ""
-  "report.toc" 1585664318 1582 700f177b546dc4a4eeed53862130b56a ""
+  "report.toc" 1585746327 1582 700f177b546dc4a4eeed53862130b56a ""
   "sections/conclusion.tex" 1585664316 2073 63a31ace2a51de241aa0b554c1bdc98d ""
   "sections/cover.tex" 1585638035 787 43519d10f32309d3f9fc92fa323a358d ""
   "sections/introduction.tex" 1585663258 1729 e30f52b338d4d8323d32c7a88029869c ""
   "sections/knowledge_and_experienced_gained.tex" 1585664184 3016 1977617ae3d17d75bde5eb7afefa4159 ""
-  "sections/summary.tex" 1585663089 1043 3d010ed644298f8e43147fcdb4e40e30 ""
-  "sections/training_schedule_and_assignments.tex" 1585663788 5129 875642bdf61dfbffeb784d024ecc6de8 ""
+  "sections/summary.tex" 1585746325 1109 4bec284d7bedd036c3a66b4c737e2d27 ""
+  "sections/training_schedule_and_assignments.tex" 1585745833 5133 6c8c991b8e2047777e0561027f4f7219 ""
   (generated)
-  "report.pdf"
-  "report.aux"
-  "/home/abhinav/Desktop/Latex/atap-report-template/report.pdf"
   "report.log"
+  "/home/abhinav/Desktop/Latex/atap-report-template/report.pdf"
   "/home/abhinav/Desktop/Latex/atap-report-template/report.log"
+  "report.aux"
   "report.toc"
+  "report.pdf"
